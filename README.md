@@ -1,0 +1,1 @@
+![Image for Illustration](https://github.com/BatyrArtem/ar-scene-three.js/raw/master/dist/pattern-tiktok.png/image.png)
