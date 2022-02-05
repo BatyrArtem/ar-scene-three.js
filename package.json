@@ -3,7 +3,7 @@
 
 
   "scripts": {
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d src"
   },
   
   "dependencies": {
